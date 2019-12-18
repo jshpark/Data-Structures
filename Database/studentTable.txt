@@ -1,0 +1,4 @@
+304,Ayanna,Freshman,BioCem,3.21,6287,
+791,srga,arwv,arg,12,8081,
+1352,Angelica,Freshman,Health Science,4,8426,
+1768,Brandon,Sophomore,HealthSci,3.3,8081,
